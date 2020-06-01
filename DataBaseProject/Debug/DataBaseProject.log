@@ -1,0 +1,7 @@
+﻿  CommandPannel.cpp
+C:\Users\Krasy\source\repos\DataBaseProject\DataBaseProject\MyVector.hpp(119): warning C4715: 'myVector<Column>::operator[]': not all control paths return a value
+C:\Users\Krasy\source\repos\DataBaseProject\DataBaseProject\MyVector.hpp(119): warning C4715: 'myVector<int>::operator[]': not all control paths return a value
+C:\Users\Krasy\source\repos\DataBaseProject\DataBaseProject\MyVector.hpp(119): warning C4715: 'myVector<Cell>::operator[]': not all control paths return a value
+C:\Users\Krasy\source\repos\DataBaseProject\DataBaseProject\MyVector.hpp(119): warning C4715: 'myVector<String>::operator[]': not all control paths return a value
+C:\Users\Krasy\source\repos\DataBaseProject\DataBaseProject\MyVector.hpp(119): warning C4715: 'myVector<double>::operator[]': not all control paths return a value
+  DataBaseProject.vcxproj -> C:\Users\Krasy\source\repos\DataBaseProject\Debug\DataBaseProject.exe
